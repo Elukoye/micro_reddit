@@ -1,6 +1,6 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Tutorial Modeling users
 
-This is the sample application for
+In this project, you’ll build the data structures necessary to support link submissions and commenting.
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
@@ -8,7 +8,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 ## Ruby on Rails Project : 
 * [Micro-Reddit](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-2-micro-reddit)
 
-## Getting started
+## Getting started :
 
 To get started with the app, clone the repo and then install the needed gems:
 
@@ -37,9 +37,9 @@ $ rails server
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
 
-## License
+## License :
 
-See [LICENSE.md](LICENSE.md) for details.
+See[LICENSE.md](LICENSE.md) for details.
 
 ## Authors :
 * [Emogene Akwiri](https://github.com/Elukoye)
